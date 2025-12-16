@@ -1,2 +1,2 @@
 This is a sample for the tutorial:
-https://www.armdot.com/blog/2021/11/23/how-to-obfuscate-csharp-application-in-visual-studio/
+https://www.softanics.com/blog/armdot/how-to-obfuscate-csharp-application-in-visual-studio
